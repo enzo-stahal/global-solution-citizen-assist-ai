@@ -1,0 +1,408 @@
+[
+  {
+    "id": "FC-01",
+    "categoria": "Identidade (RG)",
+    "titulo": "Segunda via do RG: custo e pagamento",
+    "palavras_chave": [
+      "custa",
+      "quanto custa",
+      "valor",
+      "preco",
+      "segunda via",
+      "2 via",
+      "rg",
+      "identidade"
+    ],
+    "resposta": "R$ 38,00, paga por guia gerada no portal.",
+    "documentos": [
+      "Certidão de nascimento ou de casamento",
+      "Comprovante de residência dos últimos 90 dias",
+      "Boletim de ocorrência (roubo/furto) ou declaração de extravio (perda)"
+    ],
+    "onde": "Portal da Central do Cidadão / Posto de Identificação de Aurora",
+    "fonte": "FC-01",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-01, FC-07",
+    "categoria": "Identidade (RG)",
+    "titulo": "Segunda via do RG: agendamento obrigatório",
+    "palavras_chave": [
+      "marcar horario",
+      "agendar",
+      "agendamento",
+      "horario",
+      "segunda via",
+      "rg"
+    ],
+    "resposta": "Sim; o agendamento é obrigatório, pelo portal.",
+    "documentos": [
+      "Documentos originais exigidos na ficha FC-01"
+    ],
+    "onde": "Portal da Central do Cidadão",
+    "fonte": "FC-01, FC-07",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-01",
+    "categoria": "Identidade (RG)",
+    "titulo": "Perda de RG e boletim de ocorrência",
+    "palavras_chave": [
+      "perdi",
+      "perda",
+      "extravio",
+      "boletim",
+      "boletim de ocorrencia",
+      "bo",
+      "roubo",
+      "furto",
+      "rg"
+    ],
+    "resposta": "Não; na perda basta a declaração de extravio, assinada no balcão. O boletim só é exigido em roubo ou furto.",
+    "documentos": [
+      "Declaração de extravio assinada no balcão (perda) ou Boletim de Ocorrência (roubo/furto)"
+    ],
+    "onde": "Posto de Identificação de Aurora",
+    "fonte": "FC-01",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-01",
+    "categoria": "Identidade (RG)",
+    "titulo": "Documentos necessários para a segunda via do RG",
+    "palavras_chave": [
+      "documentos",
+      "que documentos",
+      "quais documentos",
+      "levar",
+      "segunda via",
+      "rg"
+    ],
+    "resposta": "Certidão de nascimento ou de casamento; comprovante de residência dos últimos 90 dias; boletim de ocorrência (roubo ou furto) ou declaração de extravio (perda).",
+    "documentos": [
+      "Certidão de nascimento ou de casamento (original ou cópia autenticada)",
+      "Comprovante de residência dos últimos 90 dias",
+      "Boletim de ocorrência (roubo ou furto) ou declaração de extravio (perda)"
+    ],
+    "onde": "Posto de Identificação de Aurora",
+    "fonte": "FC-01",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-01",
+    "categoria": "Identidade (RG)",
+    "titulo": "Prazo de entrega do RG",
+    "palavras_chave": [
+      "quanto tempo",
+      "prazo",
+      "fica pronto",
+      "demora",
+      "entrega",
+      "rg"
+    ],
+    "resposta": "Em 10 dias úteis, contados do atendimento.",
+    "documentos": [
+      "Protocolo de atendimento"
+    ],
+    "onde": "Posto de Identificação de Aurora",
+    "fonte": "FC-01",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-01, FC-07",
+    "categoria": "Identidade (RG)",
+    "titulo": "RG para menores de 12 anos",
+    "palavras_chave": [
+      "filho",
+      "menor",
+      "menores",
+      "crianca",
+      "anos",
+      "sozinho",
+      "responsavel",
+      "rg"
+    ],
+    "resposta": "Não; menores de 12 anos vão com um responsável legal, com documento original com foto.",
+    "documentos": [
+      "Documento original com foto do responsável legal",
+      "Certidão de nascimento do menor"
+    ],
+    "onde": "Posto de Identificação de Aurora",
+    "fonte": "FC-01, FC-07",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-02",
+    "categoria": "CPF",
+    "titulo": "Inscrição no CPF pelo portal",
+    "palavras_chave": [
+      "inscrever",
+      "inscricao",
+      "como faco",
+      "tirar cpf",
+      "fazer cpf",
+      "cpf"
+    ],
+    "resposta": "Pelo portal, de graça: formulário e documentos anexados; comprovante em até 2 dias úteis; sem agendamento.",
+    "documentos": [
+      "Documento original com foto",
+      "Certidão de nascimento ou de casamento"
+    ],
+    "onde": "Portal da Central do Cidadão",
+    "fonte": "FC-02",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-02",
+    "categoria": "CPF",
+    "titulo": "Custo do CPF presencial",
+    "palavras_chave": [
+      "quanto custa",
+      "custa",
+      "taxa",
+      "presencialmente",
+      "presencial",
+      "balcao",
+      "cpf"
+    ],
+    "resposta": "Taxa de R$ 7,00 no atendimento presencial.",
+    "documentos": [
+      "Documento original com foto",
+      "Certidão de nascimento ou de casamento"
+    ],
+    "onde": "Balcão de atendimento da Central do Cidadão",
+    "fonte": "FC-02",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-03",
+    "categoria": "Título de Eleitor",
+    "titulo": "Obrigatoriedade do voto por idade",
+    "palavras_chave": [
+      "votar",
+      "obrigatorio",
+      "17 anos",
+      "16 anos",
+      "idade",
+      "facultativo",
+      "voto"
+    ],
+    "resposta": "Não; é facultativo aos 16 e 17 anos. Obrigatório de 18 a 69.",
+    "documentos": [
+      "Documento original com foto"
+    ],
+    "onde": "Portal da Central do Cidadão ou Central Eleitoral de Aurora",
+    "fonte": "FC-03",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-03",
+    "categoria": "Título de Eleitor",
+    "titulo": "Gratuidade do título de eleitor",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "pago",
+      "custa",
+      "valor",
+      "gratuito",
+      "graca",
+      "titulo"
+    ],
+    "resposta": "Não; primeira via, segunda via e transferência são gratuitas.",
+    "documentos": [
+      "Documento original com foto",
+      "Comprovante de residência dos últimos 90 dias (na transferência)"
+    ],
+    "onde": "Portal da Central do Cidadão ou Central Eleitoral de Aurora",
+    "fonte": "FC-03",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-03",
+    "categoria": "Título de Eleitor",
+    "titulo": "Prazo limite para mudar ou tirar título antes da eleição",
+    "palavras_chave": [
+      "ate quando",
+      "mudar",
+      "transferencia",
+      "antes da eleicao",
+      "eleicao",
+      "prazo",
+      "fechamento",
+      "titulo"
+    ],
+    "resposta": "O cadastro fecha 150 dias antes da eleição; depois disso, só vale para a seguinte.",
+    "documentos": [
+      "Documento original com foto",
+      "Comprovante de residência dos últimos 90 dias"
+    ],
+    "onde": "Portal da Central do Cidadão ou Central Eleitoral de Aurora",
+    "fonte": "FC-03",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-04",
+    "categoria": "Carteira de Trabalho",
+    "titulo": "Custo e prazo da Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps",
+      "digital",
+      "quanto custa",
+      "quanto demora",
+      "prazo"
+    ],
+    "resposta": "É gratuita e fica disponível na hora.",
+    "documentos": [
+      "CPF",
+      "Documento original com foto"
+    ],
+    "onde": "Portal ou aplicativo da Central do Cidadão",
+    "fonte": "FC-04",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-05",
+    "categoria": "Certidões",
+    "titulo": "Custo e prazo da segunda via da certidão de nascimento",
+    "palavras_chave": [
+      "certidao",
+      "certidao de nascimento",
+      "segunda via",
+      "quanto custa",
+      "portal",
+      "balcao"
+    ],
+    "resposta": "R$ 49,00, em PDF, em 3 dias úteis. (No balcão: R$ 55,00 em 5 dias úteis.)",
+    "documentos": [
+      "Documento original com foto de quem solicita",
+      "Dados do registro (nome do registrado e data do evento)"
+    ],
+    "onde": "Portal da Central do Cidadão ou Cartório Central de Aurora",
+    "fonte": "FC-05",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-05, FC-07",
+    "categoria": "Certidões",
+    "titulo": "Pedido de certidão por terceiros (outra pessoa)",
+    "palavras_chave": [
+      "outra pessoa",
+      "terceiros",
+      "procuracao",
+      "pedir certidao",
+      "certidao"
+    ],
+    "resposta": "Sim, com procuração simples e documento original com foto de quem retira.",
+    "documentos": [
+      "Procuração simples",
+      "Documento original com foto de quem retira"
+    ],
+    "onde": "Cartório Central de Aurora ou portal",
+    "fonte": "FC-05, FC-07",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-06",
+    "categoria": "CNH",
+    "titulo": "Antecedência para renovar a CNH",
+    "palavras_chave": [
+      "antecedencia",
+      "quando renovar",
+      "renovar",
+      "vencimento",
+      "cnh",
+      "carteira de motorista"
+    ],
+    "resposta": "A partir de 30 dias antes do vencimento.",
+    "documentos": [
+      "CNH atual",
+      "Comprovante de residência dos últimos 90 dias",
+      "Laudo do exame médico"
+    ],
+    "onde": "Portal da Central do Cidadão (agendamento obrigatório)",
+    "fonte": "FC-06",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-06",
+    "categoria": "CNH",
+    "titulo": "Validade da CNH renovada por faixa etária",
+    "palavras_chave": [
+      "55 anos",
+      "por quanto tempo vale",
+      "validade",
+      "anos",
+      "renovada",
+      "cnh"
+    ],
+    "resposta": "5 anos (faixa de 50 a 69 anos). (Até 49 anos: 10 anos; 70 anos ou mais: 3 anos.)",
+    "documentos": [
+      "CNH atual",
+      "Laudo do exame médico"
+    ],
+    "onde": "Portal da Central do Cidadão",
+    "fonte": "FC-06",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-06",
+    "categoria": "CNH",
+    "titulo": "Dirigir com CNH vencida há mais de 30 dias",
+    "palavras_chave": [
+      "venceu",
+      "vencida",
+      "45 dias",
+      "posso dirigir",
+      "dirigir",
+      "cnh"
+    ],
+    "resposta": "Não, até concluir a renovação (vencida há mais de 30 dias).",
+    "documentos": [
+      "CNH atual",
+      "Comprovante de residência dos últimos 90 dias",
+      "Laudo médico"
+    ],
+    "onde": "Portal da Central do Cidadão e clínica credenciada",
+    "fonte": "FC-06",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-07",
+    "categoria": "Regras Gerais",
+    "titulo": "Horário de atendimento presencial e sábados",
+    "palavras_chave": [
+      "sabados",
+      "sabado",
+      "horario",
+      "atendem",
+      "funciona",
+      "fim de semana"
+    ],
+    "resposta": "Não; o atendimento presencial é de segunda a sexta, das 8h às 17h.",
+    "documentos": [
+      "Documento original com foto"
+    ],
+    "onde": "Central do Cidadão de Aurora",
+    "fonte": "FC-07",
+    "verificado_em": "01/10/2026"
+  },
+  {
+    "id": "FC-07",
+    "categoria": "Regras Gerais",
+    "titulo": "Agendamento de intérprete de Libras",
+    "palavras_chave": [
+      "libras",
+      "interprete",
+      "acessibilidade",
+      "surdo"
+    ],
+    "resposta": "Agendar com 48 horas de antecedência.",
+    "documentos": [
+      "Documento original com foto"
+    ],
+    "onde": "Portal da Central do Cidadão",
+    "fonte": "FC-07",
+    "verificado_em": "01/10/2026"
+  }
+]
